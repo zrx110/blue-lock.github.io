@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>PAGE TITLE--BLUE LOCK</title>
+</head>
+<body>
+
+<h2>BLUE LOCK：）</h2>
+<p>hhhhhh</p>
+<p style=“background-image：url('file:///C:/Users/35600/Desktop/%E5%AE%9E%E9%AA%8C/blue%20lock.htm');" >blue lock</p>
+</body>
+</html>
